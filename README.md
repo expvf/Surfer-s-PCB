@@ -1,2 +1,2 @@
 # Surfer-s-PCB
-A simple blinky pad made to vaguely resemble Tony Stark's Arc Reactor
+A blinky pad that has written on it one of my favorite quotes
